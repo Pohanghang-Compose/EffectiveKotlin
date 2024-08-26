@@ -11,6 +11,10 @@
 `docs:` prefix를 표기합니다.  
 (ex. docs: 동민 1주차 정리)
 
+## Branch 규칙
+
+`week주차/영문 이름`의 양식을 따릅니다.  
+(ex. week1/dongmin)
 
 ## PR 규칙
 
